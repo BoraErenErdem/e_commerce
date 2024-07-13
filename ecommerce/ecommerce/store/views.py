@@ -87,3 +87,6 @@ def product_info(request, product_slug=None):
             'product_info': data
         }
     )
+
+def hello():
+    pass
